@@ -7,8 +7,14 @@
 }
 
 #localizacao_img{
-    width: 500px;
+    width: 400px;
     height: auto;
+}
+
+#localizacao_imagens {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 #localizacao_content{
